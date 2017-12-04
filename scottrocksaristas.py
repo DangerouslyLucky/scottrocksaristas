@@ -47,8 +47,7 @@ def main():
     # the main squeeze
     scottrocks(switches, commands, username, password)
 
-    # print a universal truth. End of script.
-    print("\nScott Rocks\n")
+    # Scott Rocks // End of Script
 
 
 # where the magic happens
